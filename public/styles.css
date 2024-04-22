@@ -1,0 +1,16 @@
+.dt-container .dt-search {
+  display: none;
+}
+
+.dt-head-input {
+  display: block;
+  width: 100%;
+}
+
+.dt-head-autowidth {
+  white-space: nowrap;
+}
+
+.dataTable > thead > tr {
+  background-color: #f1f1f1;
+}

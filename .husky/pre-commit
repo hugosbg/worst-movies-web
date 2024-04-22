@@ -1,0 +1,2 @@
+yarn test --bail
+yarn lint-staged
